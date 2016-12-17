@@ -2,7 +2,6 @@
 
 [![Name of Label](https://img.shields.io/badge/addtexthere-changestatus-blue.svg)](www.Placelinktowebsitehere.com)
 [![Name of Label](https://img.shields.io/badge/addtexthere-changestatus-green.svg)](www.Placelinktowebsitehere.com)
-
 [![Name of Label](https://img.shields.io/badge/addtexthere-changestatus-pink.svg)](www.Placelinktowebsitehere.com)
 
 ## Summary
@@ -37,11 +36,10 @@ Password: YesSir
 4. go to `www.localhost/3000`
 
 ## Technology Used
-- ![](http://williamavasquez.herokuapp.com/img/js.png)
-- ![](http://williamavasquez.herokuapp.com/img/node.png)
-- ![](http://williamavasquez.herokuapp.com/img/mongo.png)
-
-- ![](http://williamavasquez.herokuapp.com/img/react.png)
+ ![](http://williamavasquez.herokuapp.com/img/js.png)
+ ![](http://williamavasquez.herokuapp.com/img/node.png)
+ ![](http://williamavasquez.herokuapp.com/img/mongo.png)
+ ![](http://williamavasquez.herokuapp.com/img/react.png)
 
 
 ## Collaborators and Team
