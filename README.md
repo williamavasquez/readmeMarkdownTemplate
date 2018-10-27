@@ -36,10 +36,10 @@ Password: YesSir
 4. go to `www.localhost/3000`
 
 ## Technology Used
- ![heloo](http://williamavasquez.herokuapp.com/img/js.png)
+ ![](https://williamavasquez.herokuapp.com/img/js.png)
  ![](https://williamavasquez.herokuapp.com/img/node.png)
- ![](http://williamavasquez.herokuapp.com/img/mongo.png)
- ![](http://williamavasquez.herokuapp.com/img/react.png)
+ ![](https://williamavasquez.herokuapp.com/img/mongo.png)
+ ![](https://williamavasquez.herokuapp.com/img/react.png)
 
 
 ## Collaborators and Team
